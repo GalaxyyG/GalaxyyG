@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GalaxyyG
-- 👀 I’m interested in CS, Education, pop music, movies&TVplays, games, table tennis...
-- 🌱 I’m currently learning Pedagogy, Educational Technology in CCNU in Wuhan, China.
+- 👀 I’m interested in CS, Education, pop music, movies&TVplays, games(Apex Legends), table tennis...
+- 🌱 I’m currently learning Pedagogy&Educational Technology in CCNU in Wuhan, China.
 - 📫 How to reach me Email: xingyugao37@gmail.com
 
 <!---
